@@ -1,0 +1,11 @@
+LOINC,Description,,Type
+94562-6 ,SARS coronavirus 2 IgA Ab [Presence] in Serum or Plasma by Immunoassay ,SARS coronavirus 2 Ab.IgA ,Qualitative
+94563-4 ,SARS coronavirus 2 IgG Ab [Presence] in Serum or Plasma by Immunoassay ,SARS coronavirus 2 Ab.IgG ,Qualitative
+94564-2 ,SARS coronavirus 2 IgM Ab [Presence] in Serum or Plasma by Immunoassay ,SARS coronavirus 2 Ab.IgM ,Qualitative
+94547-7 ,SARS coronavirus 2 IgG+IgM Ab [Presence] in Serum or Plasma by Immunoassay ,SARS coronavirus 2 Ab.IgG+IgM ,Qualitative
+94508-9 ,SARS coronavirus 2 IgM Ab [Presence] in Serum or Plasma by Rapid immunoassay ,SARS coronavirus 2 Ab.IgM ,Qualitative
+94507-1 ,SARS coronavirus 2 IgG Ab [Presence] in Serum or Plasma by Rapid immunoassay ,SARS coronavirus 2 Ab.IgG ,Qualitative
+94503-0,SARS coronavirus 2 IgG and IgM panel - Serum or Plasma Qualitative by Rapid immunoassay,,Qualitative
+94504-8,SARS coronavirus 2 IgG and IgM panel - Serum or Plasma by Immunoassay,,Qualitative
+94505-5 ,SARS coronavirus 2 IgG Ab [Units/volume] in Serum or Plasma by Immunoassay ,,Quantitative
+94506-3 ,SARS coronavirus 2 IgM Ab [Units/volume] in Serum or Plasma by Immunoassay ,,Quantitative

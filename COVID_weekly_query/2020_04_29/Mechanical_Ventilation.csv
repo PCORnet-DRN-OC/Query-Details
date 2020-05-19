@@ -1,0 +1,32 @@
+Code,Code Category,Code Type,Full Description
+94657,PX,C4,"Ventilation assist and management, initiation of pressure or volume preset ventilators for assisted or controlled breathing; subsequent days"
+94004,PX,C4,"Ventilation assist and management, initiation of pressure or volume preset ventilators for assisted or controlled breathing; nursing facility, per day"
+94002,PX,C4,"Ventilation assist and management, initiation of pressure or volume preset ventilators for assisted or controlled breathing; hospital inpatient/observation, initial day"
+94003,PX,C4,"Ventilation assist and management, initiation of pressure or volume preset ventilators for assisted or controlled breathing; hospital inpatient/observation, each subsequent day"
+94656,PX,C4,"Ventilation assist and management, initiation of pressure or volume preset ventilators for assisted or controlled breathing; first day"
+4168F,PX,C2,"Patient receiving care in the intensive care unit (ICU) and receiving mechanical ventilation, 24 hours or less (CRIT)"
+5A1935Z,PX,10,"Respiratory Ventilation, Less than 24 Consecutive Hours"
+5A1945Z,PX,10,"Respiratory Ventilation, 24-96 Consecutive Hours"
+5A1955Z,PX,10,"Respiratory Ventilation, Greater than 96 Consecutive Hours"
+96.70,PX,09,Continuous invasive mechanical ventilation of unspecified duration
+96.71,PX,09,Continuous invasive mechanical ventilation for less than 96 consecutive hours
+96.72,PX,09,Continuous invasive mechanical ventilation for 96 consecutive hours or more
+96.04,PX,09,Insertion of endotracheal tube
+96.05,PX,09,Other intubation of respiratory tract
+0BH17EZ,PX,10,"Insertion of Endotracheal Airway into Trachea, Via Natural or Artificial Opening"
+0BH18EZ,PX,10,"Insertion of Endotracheal Airway into Trachea, Via Natural or Artificial Opening Endoscopic"
+31.2,PX,09,
+31.21,PX,09,
+31.29,PX,09,
+V44.0,DX,09,
+K0165,CPT/HCPCS,,
+31502,CPT/HCPCS,,
+31600,CPT/HCPCS,,
+31601,CPT/HCPCS,,
+31603,CPT/HCPCS,,
+31605,CPT/HCPCS,,
+31610,CPT/HCPCS,,
+31611,CPT/HCPCS,,
+31612,CPT/HCPCS,,
+31613,CPT/HCPCS,,
+31614,CPT/HCPCS,,

@@ -1,0 +1,10 @@
+Code,CodeType,FullDescription,Source
+B97.29,DX10,Other coronavirus as the cause of diseases classified elsewhere,
+U07.1,DX10,"COVID-19, virus identified",
+B34.2,DX10,"Coronavirus infection, unspecified site",
+B97.2,DX10,Coronavirus as the cause of diseases classified to other chapters,
+B97.21,DX10,SARS-associated coronavirus as the cause of diseases classified elsewhere,
+J12.81,DX10,Pneumonia due to SARS-associated coronavirus,
+U04,DX10,Severe acute respiratory syndrome [SARS],
+U04.9,DX10,"Severe acute respiratory syndrome [SARS], unspecified",
+U07.2,DX10,"COVID-19, virus not identified",

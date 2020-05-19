@@ -1,0 +1,35 @@
+Code,Code Type,Description,Type
+94640-0 ,LOINC,SARS coronavirus 2 S gene [Presence] in Respiratory specimen by NAA with probe detection ,Qualitative
+94641-8 ,LOINC,SARS coronavirus 2 S gene [Presence] in Unspecified specimen by NAA with probe detection ,Qualitative
+94647-5 ,LOINC,SARS-related coronavirus RNA [Presence] in Unspecified specimen by NAA with probe detection ,Qualitative
+94565-9 ,LOINC,SARS coronavirus 2 RNA [Presence] in Nasopharynx by NAA with non-probe detection ,Qualitative
+94558-4 ,LOINC,SARS coronavirus 2 Ag [Presence] in Respiratory specimen by Rapid immunoassay ,Qualitative
+94532-9 ,LOINC,SARS-related coronavirus+MERS coronavirus RNA [Presence] in Respiratory specimen by NAA with probe detection ,Qualitative
+94533-7 ,LOINC,SARS coronavirus 2 N gene [Presence] in Respiratory specimen by NAA with probe detection ,Qualitative
+94534-5 ,LOINC,SARS coronavirus 2 RdRp gene [Presence] in Respiratory specimen by NAA with probe detection ,Qualitative
+94500-6 ,LOINC,SARS coronavirus 2 RNA [Presence] in Respiratory specimen by NAA with probe detection ,Qualitative
+94501-4 ,LOINC,Middle East respiratory syndrome coronavirus (MERS-CoV) RNA [Presence] in Respiratory specimen by NAA with probe detection ,Qualitative
+94502-2 ,LOINC,SARS-related coronavirus RNA [Presence] in Respiratory specimen by NAA with probe detection ,Qualitative
+94309-2 ,LOINC,SARS coronavirus 2 RNA [Presence] in Unspecified specimen by NAA with probe detection ,Qualitative
+94308-4 ,LOINC,SARS coronavirus 2 N gene [Presence] in Unspecified specimen by Nucleic acid amplification using primer-probe set N2 ,Qualitative
+94307-6 ,LOINC,SARS coronavirus 2 N gene [Presence] in Unspecified specimen by Nucleic acid amplification using primer-probe set N1 ,Qualitative
+94310-0 ,LOINC,SARS-like coronavirus N gene [Presence] in Unspecified specimen by NAA with probe detection ,Qualitative
+94314-2 ,LOINC,SARS coronavirus 2 RdRp gene [Presence] in Unspecified specimen by NAA with probe detection ,Qualitative
+94316-7 ,LOINC,SARS coronavirus 2 N gene [Presence] in Unspecified specimen by NAA with probe detection ,Qualitative
+94315-9 ,LOINC,SARS coronavirus 2 E gene [Presence] in Unspecified specimen by NAA with probe detection ,Qualitative
+94559-2 ,LOINC,SARS coronavirus 2 ORF1ab region [Presence] in Respiratory specimen by NAA with probe detection ,Qualitative
+94531-1,LOINC,SARS coronavirus 2 RNA panel - Respiratory specimen by NAA with probe detection,Qualitative
+94306-8,LOINC,SARS coronavirus 2 RNA panel - Unspecified specimen by NAA with probe detection,Qualitative
+87635,CPT,"Infectious agent detection by nucleic acid (DNA or RNA); severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (Coronavirus disease [COVID-19]), amplified probe technique",Qualitative
+U0001,PXCH,Coronavirus testing using the Centers for Disease Control and Prevention (CDC) 2019 Novel Coronavirus Real Time RT-PCR Diagnostic Test Panel,Qualitative
+U0002,PXCH,Validated non-CDC laboratory tests for SARS-CoV-2/2019-nCoV (COVID-19),Qualitative
+94642-6 ,LOINC,SARS coronavirus 2 S gene [Cycle Threshold #] in Respiratory specimen by NAA with probe detection ,Quantitative
+94643-4 ,LOINC,SARS coronavirus 2 S gene [Cycle Threshold #] in Unspecified specimen by NAA with probe detection ,Quantitative
+94645-9 ,LOINC,SARS coronavirus 2 RdRp gene [Cycle Threshold #] in Unspecified specimen by NAA with probe detection ,Quantitative
+94646-7 ,LOINC,SARS coronavirus 2 RdRp gene [Cycle Threshold #] in Respiratory specimen by NAA with probe detection ,Quantitative
+94509-7 ,LOINC,SARS coronavirus 2 E gene [Cycle Threshold #] in Unspecified specimen by NAA with probe detection ,Quantitative
+94510-5 ,LOINC,SARS coronavirus 2 N gene [Cycle Threshold #] in Unspecified specimen by NAA with probe detection ,Quantitative
+94311-8 ,LOINC,SARS coronavirus 2 N gene [Cycle Threshold #] in Unspecified specimen by Nucleic acid amplification using primer-probe set N1 ,Quantitative
+94312-6 ,LOINC,SARS coronavirus 2 N gene [Cycle Threshold #] in Unspecified specimen by Nucleic acid amplification using primer-probe set N2 ,Quantitative
+94313-4 ,LOINC,SARS-like coronavirus N gene [Cycle Threshold #] in Unspecified specimen by NAA with probe detection ,Quantitative
+94511-3 ,LOINC,SARS coronavirus 2 ORF1ab region [Cycle Threshold #] in Unspecified specimen by NAA with probe detection ,Quantitative

@@ -1,0 +1,50 @@
+Code,Code Type,Full Description
+J09,DX10,Influenza due to certain identified influenza viruses
+J09.01,DX10,Influenza due to identified avian influenza virus with respiratory manifestations
+J09.010,DX10,Influenza due to identified avian influenza virus with identified avian influenza pneumonia
+J09.018,DX10,Influenza due to identified avian influenza virus with other specified type of pneumonia
+J09.019,DX10,Influenza due to identified avian influenza virus with unspecified type of pneumonia
+J09.02,DX10,Influenza due to identified avian influenza virus with other respiratory manifestations
+J09.03,DX10,Influenza due to identified avian influenza virus with gastrointestinal manifestations
+J09.090,DX10,Influenza due to identified avian influenza virus with encephalopathy
+J09.091,DX10,Influenza due to identified avian influenza virus with myocarditis
+J09.092,DX10,Influenza due to identified avian influenza virus with otitis media
+J09.098,DX10,Influenza due to identified avian influenza virus with other manifestations
+J09.11,DX10,Influenza due to identified novel H1N1 influenza virus with respiratory manifestations
+J09.110,DX10,Influenza due to identified novel H1N1 influenza virus with identified novel H1N1 influenza pneumonia
+J09.118,DX10,Influenza due to identified novel H1N1 influenza virus with other specified type of pneumonia
+J09.119,DX10,Influenza due to identified novel H1N1 influenza virus with unspecified type of pneumonia
+J09.12,DX10,Influenza due to identified novel H1N1 influenza virus with other respiratory manifestations
+J09.13,DX10,Influenza due to identified novel H1N1 influenza virus with gastrointestinal manifestations
+J09.190,DX10,Influenza due to identified novel H1N1 influenza virus with encephalopathy
+J09.191,DX10,Influenza due to identified novel H1N1 influenza virus with myocarditis
+J09.192,DX10,Influenza due to identified novel H1N1 influenza virus with otitis media
+J09.198,DX10,Influenza due to identified novel H1N1 influenza virus with other manifestations
+J09.X,DX10,Influenza due to identified novel influenza A virus
+J09.X1,DX10,Influenza due to identified novel influenza A virus with pneumonia
+J09.X2,DX10,Influenza due to identified novel influenza A virus with other respiratory manifestations
+J09.X3,DX10,Influenza due to identified novel influenza A virus with gastrointestinal manifestations
+J09.X9,DX10,Influenza due to identified novel influenza A virus with other manifestations
+J10,DX10,Influenza due to other identified influenza virus
+J10.0,DX10,Influenza due to other identified influenza virus with pneumonia
+J10.00,DX10,Influenza due to other identified influenza virus with unspecified type of pneumonia
+J10.01,DX10,Influenza due to other identified influenza virus with the same other identified influenza virus pneumonia
+J10.08,DX10,Influenza due to other identified influenza virus with other specified pneumonia
+J10.1,DX10,"Influenza with other respiratory manifestations, seasonal influenza virus identified"
+J10.2,DX10,Influenza due to other identified influenza virus with gastrointestinal manifestations
+J10.8,DX10,"Influenza with other manifestations, seasonal influenza virus identified"
+J10.81,DX10,Influenza due to other identified influenza virus with encephalopathy
+J10.82,DX10,Influenza due to other identified influenza virus with myocarditis
+J10.83,DX10,Influenza due to other identified influenza virus with otitis media
+J10.89,DX10,Influenza due to other identified influenza virus with other manifestations
+J11,DX10,"Influenza, virus not identified"
+J11.0,DX10,Influenza due to unidentified influenza virus with pneumonia
+J11.00,DX10,Influenza due to unidentified influenza virus with unspecified type of pneumonia
+J11.08,DX10,Influenza due to unidentified influenza virus with specified pneumonia
+J11.1,DX10,"Influenza with other respiratory manifestations, virus not identified"
+J11.2,DX10,Influenza due to unidentified influenza virus with gastrointestinal manifestations
+J11.8,DX10,Influenza due to unidentified influenza virus with other manifestations
+J11.81,DX10,Influenza due to unidentified influenza virus with encephalopathy
+J11.82,DX10,Influenza due to unidentified influenza virus with myocarditis
+J11.83,DX10,Influenza due to unidentified influenza virus with otitis media
+J11.89,DX10,Influenza due to unidentified influenza virus with other manifestations
